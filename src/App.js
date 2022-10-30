@@ -139,6 +139,6 @@ function App() {
       </div>
     </div>
   );
-} //parei em 1:14: https://www.youtube.com/watch?v=pOVyVivyfok&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO&index=42
+} 
 
 export default App;

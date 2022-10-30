@@ -1,0 +1,20 @@
+A ideia aqui é criar um projeto com API para armazenar dados
+
+yarn add json-server react-icons
+
+e no package.json em scrips adicionamos: "server": "json-server --watch data/db.json --port 5000"
+depois criamos uma pasta data na raiz do projeto e o arquivo db.json dentro dela
+e dentro de db.json:
+{
+    "todos": []
+}
+
+com isso testamos se a API está rodando: yarn run server
+
+em outro terminal rodamos o front do react: yarn start
+
+
+
+
+
+

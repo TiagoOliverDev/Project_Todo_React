@@ -5,7 +5,8 @@ import {BsTrash, BsBookmarkCheck, BsBookmarkCheckFill } from "react-icons/bs";
 function App() {
   return (
     <div className="App">
-      <h1>Todo</h1>
+      <h1>Projeto todo</h1>
+      <p>Teste</p>
     </div>
   );
 }

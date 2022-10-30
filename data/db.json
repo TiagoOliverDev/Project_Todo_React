@@ -1,3 +1,22 @@
 {
-    "todos": []
+  "todos": [
+    {
+      "id": 0.41627952211516606,
+      "title": "Estudar React Monaco",
+      "time": "3",
+      "done": false
+    },
+    {
+      "id": 0.6970925913244916,
+      "title": "Estudar Componentes",
+      "time": "1h",
+      "done": false
+    },
+    {
+      "id": 0.6727068113787993,
+      "title": "Estudar Componentes React",
+      "time": "7h",
+      "done": false
+    }
+  ]
 }

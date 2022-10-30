@@ -13,7 +13,10 @@ com isso testamos se a API está rodando: yarn run server
 
 em outro terminal rodamos o front do react: yarn start
 
-
+Como rodar ?
+- Abrir dois terminais
+- Em um terminal rodar yarn start pra rodar o front
+- Em outro terminal rodar yarn run server para rodar a API
 
 
 
